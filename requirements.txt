@@ -1,0 +1,5 @@
+flask
+transformers
+torch
+requests
+gunicorn   # lel deploiement mta3 flask apps*
